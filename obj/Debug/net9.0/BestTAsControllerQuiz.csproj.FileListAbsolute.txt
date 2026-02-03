@@ -33,3 +33,4 @@ C:\Users\carlo\Desktop\BestTAsControllerQuiz\obj\Debug\net9.0\refint\BestTAsCont
 C:\Users\carlo\Desktop\BestTAsControllerQuiz\obj\Debug\net9.0\BestTAsControllerQuiz.pdb
 C:\Users\carlo\Desktop\BestTAsControllerQuiz\obj\Debug\net9.0\BestTAsControllerQuiz.genruntimeconfig.cache
 C:\Users\carlo\Desktop\BestTAsControllerQuiz\obj\Debug\net9.0\ref\BestTAsControllerQuiz.dll
+C:\Users\carlo\Desktop\BestTAsControllerQuiz\obj\Debug\net9.0\BestTAsControllerQuiz.sourcelink.json

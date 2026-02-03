@@ -19,7 +19,7 @@ namespace BestTAsControllerQuiz.Controllers
         }
 
         [HttpGet("{num1}/{num2}")]
-        public int AddingNums(int num1, int num2)
+        public int Adding(int num1, int num2)
         {
             return _addingNums.AddTwo(num1, num2);
         }
